@@ -1,6 +1,9 @@
 * {
     margin:0;
     padding: 0;
+    font-family: Arial, serif;
+    color: #FBFCF8;
+    text-decoration: none;
 }
 #header {
     background-color: #1520A6;
@@ -13,13 +16,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #FBFCF8;
     font-weight: bold;
-    font-family: Arial, serif;
 }
 .header-element a {
-    color: #FBFCF8;
-    text-decoration: none;
     margin: 14px 40px;
 }
 .header-element a:hover {
@@ -29,4 +28,41 @@
     margin: 0;
     transition: all 0.35s;
 
+}
+#mainpage {
+    background-color: #6171a9;
+}
+#mars-footer {
+    text-align: center;
+    font-weight: bold;
+    background-color: #1520A6;
+    font-size: 2em;
+}
+#footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1520A6;
+    align-items: center;
+}
+.footer-element {
+    display: flex;
+    font-weight: bold;
+    background-color: #6171a9;
+    border-radius: 0.3em;
+    margin: 1em 4em;
+    height: 6em;
+    width: 12em;
+    align-items: center;
+    justify-content: center;
+}
+.footer-element p {
+    text-align: center;
+}
+#footer-links {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #1520A6;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.9em;
 }
