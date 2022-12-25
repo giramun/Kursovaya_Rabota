@@ -12,7 +12,7 @@
 <!DOCTYPE HTML>
 <html lang="ru">
 <head>
-    <title>Mars Dealership</title>
+    <title>Mars Dealership </title>
     <link type="text/css" rel="stylesheet" href="style.css" />
 </head>
 <body>
