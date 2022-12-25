@@ -95,17 +95,18 @@
 }
 .car-description div {
     margin-bottom: 1em;
+    font-size: 1.1vw;
 }
 .car-price {
     width: 35%;
     box-sizing: border-box;
-    padding-top: 3em;
-    padding-left: 2.5em;
+    padding-top: 3vh;
+    padding-left: 2.5vw;
 }
 .car-price div {
-    margin-bottom:30%;
+    margin-bottom:6vh;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 1.8vw;
     color:deepskyblue;
 }
 .car-price button {
@@ -115,5 +116,5 @@
     background: greenyellow;
     border: 1px solid green;
     border-radius: 4px;
-    font-size: 1.1em;
+    font-size: 1vw;
 }
